@@ -12,6 +12,10 @@ Pokemon-analysis uses a dataset of Pokémon to perform data analysis and interac
 - Insightful Trends and Patterns
 
   ## Plots & Graphs
+  <img width="521" alt="Screenshot 2025-05-24 at 7 42 00 PM" src="https://github.com/user-attachments/assets/af59eca6-b1a8-49c0-89a8-ea6b4ca0cd5b" />
+  <img width="521" alt="Screenshot 2025-05-24 at 7 42 10 PM" src="https://github.com/user-attachments/assets/7ccd510b-34ab-4cff-baf3-e89151658f3f" />
+  <img width="1183" alt="Screenshot 2025-05-24 at 7 42 18 PM" src="https://github.com/user-attachments/assets/92d4f927-ab9a-4cf0-bd3f-5ed7ab97bbc7" />
+
 
   ## Authors & Acknowledgements
   - Daniel Ruiz
